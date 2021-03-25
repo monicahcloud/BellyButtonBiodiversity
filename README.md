@@ -16,7 +16,5 @@ The dataset reveals that a small handful of microbial species (also called opera
   Create the Gauge Chart to plot the weekly washing frequency of the individual.  
   Update all of the plots any time that a new sample is selected.  
   Deploy the app to GitHub Pages. 
-  
-About the Data Hulcr, J. et al.(2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/  
 
 Contact:  Email: monicahcloud@gmail.com
